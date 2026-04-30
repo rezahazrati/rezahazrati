@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rezahazrati
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-     and c programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in full‑stack web development
+- 💻 I mainly work with C, C++, and C#
+- ⚛️ Currently learning React, JavaScript, and TypeScript
+- ☕ Also learning Java (thanks to university)
+- 💞️ I’m open to collaborating on interesting projects
 
 <!---
 rezahazrati/rezahazrati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
