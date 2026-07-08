@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer with a strong founda
 
 I'm driven by the desire to build robust, scalable, and elegant software solutions. From low-level systems programming to interactive front-end experiences, I enjoy the full spectrum of development.
 
-- 💼 Full-Stack Developer | Systems Programmer
 - 📚 Continuously learning new technologies and best practices
 - 🤝 Open to collaborating on interesting and challenging projects
 - 🎯 Focused on writing clean, maintainable, and efficient code
