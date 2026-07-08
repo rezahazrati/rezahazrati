@@ -16,18 +16,18 @@ I'm driven by the desire to build robust, scalable, and elegant software solutio
 `C` • `C++` • `C#` • `Java`
 
 **Web Development:**  
-`JavaScript` • `TypeScript` • `React` • `HTML` • `CSS`
+`JavaScript` • `TypeScript` • `HTML` • `CSS`
 
 **Tools & Technologies:**  
-`Git` • `GitHub` • `VS Code` • `Visual Studio`
+`Git` • `GitHub` • `VS Code` • `Visual Studio` 
 
 ## 🌟 Featured Projects
 
 Here are some projects I'm proud of:
 
-- **[Project Name](#)** - A brief description of your project and what makes it special
-- **[Project Name](#)** - Key features and technologies used
-- **[Project Name](#)** - Impact and lessons learned
+- **[Hollow Knight](https://github.com/rezahazrati/Hollow-Knight)** - A simplified version of hollow knight 
+- **[Simplified market accounting](https://github.com/rezahazrati/Simplified-Market-Accounting)** - My biggest project in c# :) 
+- **[pvz 2](https://github.com/advanced-progamming-sut-2026/phase-0-null-ussr-pointer)** - A team project for AP with two of the best
 
 *Want to see more? Check out my [repositories](https://github.com/rezahazrati?tab=repositories)!*
 
@@ -51,10 +51,7 @@ Full-stack development • Web technologies • Systems programming • Open-sou
 
 I'm always interested in collaborating, discussing technology, or exploring new opportunities!
 
-- 📧 Email: [Add your email]
-- 🔗 LinkedIn: [Add your LinkedIn URL]
-- 🐦 Twitter/X: [Add your Twitter handle]
-- 💬 Discord: [Add your Discord username]
+- 📧 Email: [rhazrati44@gmail.com]
 
 ## ⭐ How to Find Me
 
