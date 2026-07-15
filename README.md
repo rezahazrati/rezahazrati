@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Reza Hazrati 👋</h1>
 
 <p align="center">
-  <em>Full-stack developer with a systems programming core and a growing love for the web.</em>
+  <em> developer with a systems programming core and a growing love for the web.</em>
 </p>
 
 <p align="center">
@@ -42,7 +42,6 @@ I'm driven by building software that's robust, scalable, and clean — whether t
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 **Tools**
@@ -65,15 +64,6 @@ I'm driven by building software that's robust, scalable, and clean — whether t
 | 🌻 [**PvZ 2**](https://github.com/advanced-progamming-sut-2026/phase-0-null-ussr-pointer) | A team project for AP, built with two of the best |
 
 *Want to see more? Check out my [full repository list](https://github.com/rezahazrati?tab=repositories)!*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rezahazrati&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezahazrati&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
